@@ -1,0 +1,56 @@
+
+form{
+    border-radius: 20px;
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 10vh; 
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+body{
+
+    background-image: url('./img/d52b2f47078937.586f658a859a5.jpeg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
+    
+
+
+label{
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    background-color: blue;
+    height: 30px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:18px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+input{
+    height: 30px;
+    
+}
+.link{
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 30px;
+    background-color: red;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
